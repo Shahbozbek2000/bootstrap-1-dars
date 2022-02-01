@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+/* .btn-primary {
+    background-color: red !important;
+    border-radius: 20px;
+} */
+
+
+
+.card-header {
+    padding: 0;
+}
+.card-header img {
+    width: 100%;
+}
